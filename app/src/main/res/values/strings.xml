@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckSelfPermission</string>
+    <string name="call_phone_button">Telepon Aku, Bang!</string>
+    <string name="buka_petanya_dong">Buka Petanya, dong!</string>
+</resources>
